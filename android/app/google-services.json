@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175146289584",
+    "project_id": "chhabrain-song-listener-task",
+    "storage_bucket": "chhabrain-song-listener-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175146289584:android:8c646df866034305d4ee75",
+        "android_client_info": {
+          "package_name": "com.example.chhabrain_task_songslistener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175146289584-dcl54v47f4okp3jc1jlhshlb04jvcsqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chhabrain_task_songslistener",
+            "certificate_hash": "fdd4b951928d57948f2e71be1550279440bb0bd9"
+          }
+        },
+        {
+          "client_id": "175146289584-7fd93jrlbdc5sdjklnm8193uqhkd2un2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpe_3ZXnT8l62M8p5V-Lzd-YLDey0HAKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175146289584-7fd93jrlbdc5sdjklnm8193uqhkd2un2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
